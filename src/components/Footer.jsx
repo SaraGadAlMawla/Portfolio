@@ -61,7 +61,7 @@ function Footer() {
 				</div>
 			</div>
       <p className='text-sm mt-2 opacity-50'>
-        &copy; {new Date().getFullYear()} Template by Forrest Knight, tweeked by Sara Gadelmoula. All rights reserved.
+        &copy; {new Date().getFullYear()} Template by Forrest Knight, tweaked by Sara Gadelmoula. All rights reserved.
       </p>
     </div>
   )
